@@ -4,8 +4,8 @@ import time
 import smtplib
 
 def sendEmail(city):
-	# Gmail username and application specific password.
-	# Passwords can be created at: https://myaccount.google.com/security
+    # Gmail username and application specific password.
+    # Passwords can be created at: https://myaccount.google.com/security
     gmail_user = 'someone@gmail.com'
     gmail_password = '#############'
     
